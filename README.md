@@ -1,4 +1,6 @@
 # proyectofinal-crypto
-<img width="1912" height="1015" alt="image" src="https://github.com/user-attachments/assets/94b78ea2-89c3-4973-b2d9-3b0a7fc9d2e1" />
-<img width="1912" height="1015" alt="image" src="https://github.com/user-attachments/assets/a09327c5-ee27-40de-b9f7-7cfb6740b06d" />
-<img width="1912" height="1015" alt="image" src="https://github.com/user-attachments/assets/9a56d9b0-5920-46e3-9af0-789b0a792b33" />
+<img width="508" height="773" alt="image" src="https://github.com/user-attachments/assets/e48d1a70-6ad7-4899-b5e9-b34b7eb7f1c1" />
+<img width="508" height="773" alt="image" src="https://github.com/user-attachments/assets/af8628b6-c0f9-4996-9d8d-79282ec65c6c" />
+<img width="508" height="773" alt="image" src="https://github.com/user-attachments/assets/c468b8de-ae77-487c-a77a-11c9b008ab01" />
+
+
